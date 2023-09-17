@@ -1,0 +1,1 @@
+This GitHub repository serves as the centralized location for all College tasks.
